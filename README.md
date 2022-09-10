@@ -12,7 +12,6 @@ Requirements :
       A) install vue.js :
 
            npm init vue@latest
-
       checking update :
 
            npm update -g @vue/cli
