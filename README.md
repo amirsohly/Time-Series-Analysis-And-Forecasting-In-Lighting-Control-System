@@ -6,19 +6,21 @@ Requirements :
 1) Django :
 
     $ python -m pip install Django
- OR
+OR
     py -m pip install Django
 
 
 2) Vue JS :
 
 A) install vue.js :
+
          npm init vue@latest
 
-       checking update :
+checking update :
+
          npm update -g @vue/cli
          
-     OR
+OR
      
          yarn global upgrade --latest @vue/cli
 
@@ -26,7 +28,7 @@ B) install axios :
 
          npm install axios
          
-     OR
+OR
      
          yarn add axios
 
