@@ -5,12 +5,7 @@ Requirements :
 
 1) Django :
 
-   python -m pip install Django
-
-OR
-
     py -m pip install Django
-
 
 2) Vue JS :
 
