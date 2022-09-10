@@ -5,7 +5,7 @@ Requirements :
 
 1) Django :
 
-    py -m pip install Django
+py -m pip install Django
 
 2) Vue JS :
 
