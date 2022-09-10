@@ -15,20 +15,15 @@ Requirements :
       checking update :
 
            npm update -g @vue/cli
-
       OR
 
            yarn global upgrade --latest @vue/cli
-
       B) install axios :
 
            npm install axios
-
       OR
 
            yarn add axios
-
-
       C) install chart.js :
 
            npm install chart.js
