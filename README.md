@@ -6,9 +6,7 @@ Requirements :
 1) Django :
 
     $ python -m pip install Django
-
  OR
-
     py -m pip install Django
 
 
@@ -19,17 +17,13 @@ Requirements :
 
        checking update :
          npm update -g @vue/cli
-
      OR
-
          yarn global upgrade --latest @vue/cli
 
      B) install axios :
 
          npm install axios
-
      OR
-
          yarn add axios
 
 
