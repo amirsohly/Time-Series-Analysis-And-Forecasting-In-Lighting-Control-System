@@ -9,27 +9,27 @@ Requirements :
 
 2) Vue JS :
 
-       A) install vue.js :
+      A) install vue.js :
 
            npm init vue@latest
 
-       checking update :
+      checking update :
 
            npm update -g @vue/cli
 
-       OR
+      OR
 
            yarn global upgrade --latest @vue/cli
 
-       B) install axios :
+      B) install axios :
 
            npm install axios
 
-       OR
+      OR
 
            yarn add axios
 
 
-       C) install chart.js :
+      C) install chart.js :
 
            npm install chart.js
