@@ -13,23 +13,23 @@ OR
 2) Vue JS :
 
 A) install vue.js :
- npm init vue@latest
+    npm init vue@latest
 
 checking update :
 
- npm update -g @vue/cli
+    npm update -g @vue/cli
          
 OR
      
- yarn global upgrade --latest @vue/cli
+    yarn global upgrade --latest @vue/cli
 
 B) install axios :
 
- npm install axios
+    npm install axios
          
 OR
      
- yarn add axios
+    yarn add axios
 
 
 C) install chart.js :
