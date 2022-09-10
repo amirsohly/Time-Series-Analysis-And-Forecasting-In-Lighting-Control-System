@@ -13,6 +13,7 @@ OR
 2) Vue JS :
 
 A) install vue.js :
+
     npm init vue@latest
 
 checking update :
