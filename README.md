@@ -1,6 +1,7 @@
-Hi
-
 In this project, a system is proposed to control lighting devices based on the Internet of Things in the Internet platform and without geographical restrictions, which is efficient and economical as well. In the proposed method, a special chip module is used to establish communication with the subjects. Plus a time series prediction algorithm to help us automate our control mechanism. Also, an alternative approach is designed whenever there is no access to internet.
+
+![123](https://github.com/amirsohly/Time-Series-Analysis-And-Forecasting-In-Lighting-Control-System/assets/47668516/c0fbe29f-3321-422e-bf6d-1c6de17044a0)
+
 
 Requirements :
 (It is assumed that you have installed npm)
